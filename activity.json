@@ -1,0 +1,9 @@
+{
+  "name": "Chernobyl Effect",
+  "type": "embedded",
+  "application_id": "1421500137804533943",
+  "urls": {
+    "default": "https://steame090.github.io/chernobyl-effect/index.html"
+  },
+  "permissions": []
+}
